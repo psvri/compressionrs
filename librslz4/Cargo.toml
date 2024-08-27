@@ -1,0 +1,6 @@
+[package]
+name = "librslz4"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
